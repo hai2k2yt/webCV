@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c78c86a-e3a0-4803-9093-10aa1f843bfb" name="Changes" comment="create simpleJS">
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/react-scripts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/_redirects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/CircularStd-Bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/CircularStd-Book.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/CircularStd-Medium.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ic_analytics.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ic_banking.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ic_blog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ic_booking.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ic_calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ic_cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ic_chat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ic_dashboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ic_ecommerce.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ic_kanban.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ic_mail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ic_user.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo/logo_full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo/logo_full.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo/logo_single.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/_analytics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/_banking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/_booking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/_countries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/_ecommerce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/_mock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/_others.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/_plans.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/_top100Films.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/_user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/address.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/boolean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/company.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/email.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/funcs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/map/cities.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/map/countries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/map/map-style-basic-v8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/map/stations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/name.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/phoneNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/role.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mock/text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icon_plan_free.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icon_plan_premium.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icon_plan_starter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icon_sent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustration_404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustration_500.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustration_booking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustration_checkin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustration_checkout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustration_coming_soon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustration_doc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustration_maintenance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustration_motivation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustration_order_complete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustration_seo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustration_upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BadgeStatus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Iconify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoadingScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Logo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MenuPopover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ProgressBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RtlLayout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ScrollToTop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Scrollbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SvgIconStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ThemeColorPresets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/DialogAnimate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/FabButtonAnimate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/IconButtonAnimate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/MotionContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/MotionInView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/MotionLazyContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/TextAnimate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/features.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/variants/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/variants/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/variants/bounce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/variants/container.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/variants/fade.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/variants/flip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/variants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/variants/path.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/variants/rotate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/variants/scale.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/variants/slide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/variants/transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animate/variants/zoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/nav-section/horizontal/NavItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/nav-section/horizontal/NavList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/nav-section/horizontal/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/nav-section/horizontal/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/nav-section/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/nav-section/vertical/NavItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/nav-section/vertical/NavList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/nav-section/vertical/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/nav-section/vertical/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/settings/SettingColorPresets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/settings/SettingDirection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/settings/SettingFullscreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/settings/SettingLayout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/settings/SettingMode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/settings/SettingStretch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/settings/ToggleButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/settings/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contexts/CollapseDrawerContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contexts/SettingsContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useCollapseDrawer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useLocalStorage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useOffSetTop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useResponsive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useSettings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/LogoOnlyLayout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/dashboard/header/AccountPopover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/dashboard/header/ContactsPopover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/dashboard/header/LanguagePopover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/dashboard/header/NotificationsPopover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/dashboard/header/Searchbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/dashboard/header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/dashboard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/dashboard/navbar/CollapseButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/dashboard/navbar/NavConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/dashboard/navbar/NavbarAccount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/dashboard/navbar/NavbarDocs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/dashboard/navbar/NavbarHorizontal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/dashboard/navbar/NavbarVertical.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Page404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PageFive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PageFour.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PageOne.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PageSix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PageThree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PageTwo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/breakpoints.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Accordion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Autocomplete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Avatar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Backdrop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Badge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Breadcrumbs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/ButtonGroup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Checkbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Chip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/ControlLabel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/CssBaseline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/CustomIcons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/DataGrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Drawer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Fab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/List.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/LoadingButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Paper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Progress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Radio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Rating.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Skeleton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Stepper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/SvgIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Switch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Timeline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/ToggleButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/TreeView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/Typography.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/overrides/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/palette.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/shadows.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/typography.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/cssStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/formatTime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/getColorPresets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/getFontValue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-scripts_JS/src/hooks/useAuth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-scripts_JS/src/hooks/useAuth.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2FziFLXYcFg2FPfQJeANYb95Xeu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c78c86a-e3a0-4803-9093-10aa1f843bfb" name="Changes" comment="" />
+      <created>1665501213750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665501213750</updated>
+      <workItem from="1665501214834" duration="852000" />
+      <workItem from="1665505447448" duration="390000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create simpleJS" />
+    <option name="LAST_COMMIT_MESSAGE" value="create simpleJS" />
+  </component>
+</project>
